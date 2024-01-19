@@ -1,0 +1,24 @@
+Manual Testing Project
+----------------------
+Project Introduction
+Understanding & Explore the functionality.(FRS->functional requirement specification)
+Test Plan->its a doc.scope of the test/schedule/features test/entry and exit criteria/tools/inclusions/test environment/risk and mitigation.
+
+Writing Test Scenarios
+Writing Testcases & Reviews
+Environment setup and build deployment
+Test Execution
+Bug Reporting & Tracking
+Sanity Testing,Re-Testing and Regression Testing
+Test sign off
+
+eCommerce
+----------
+	Login
+	Search for products/items
+	Add then to cart
+	Do payment
+	Product will be delivered
+	Returns the product
+	etc....
+URL-->https://demo.opencart.com/
